@@ -1,0 +1,56 @@
+{
+  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "statuses": {
+    "live": {
+      "dot": "🟢",
+      "label": "Live"
+    },
+    "building": {
+      "dot": "🟡",
+      "label": "Building"
+    },
+    "soon": {
+      "dot": "🔵",
+      "label": "Soon"
+    },
+    "private": {
+      "dot": "🔒",
+      "label": "Private"
+    }
+  },
+  "items": [
+    {
+      "name": "Ghost Kingdom",
+      "domain": "ghostk.ing",
+      "url": "https://www.ghostk.ing",
+      "tag": "Camera fleet",
+      "status": "live",
+      "src": {
+        "label": "GHOST-CAM",
+        "url": null
+      }
+    },
+    {
+      "name": "The Kingdom",
+      "domain": "kingdom club",
+      "url": null,
+      "tag": "Docs + club",
+      "status": "soon",
+      "src": {
+        "label": "KINGDOM",
+        "url": null
+      }
+    },
+    {
+      "name": "The Terminal",
+      "domain": "kingdom terminal",
+      "url": null,
+      "tag": "Terminal",
+      "status": "soon",
+      "src": {
+        "label": "TERMINAL",
+        "url": null
+      }
+    }
+  ]
+}

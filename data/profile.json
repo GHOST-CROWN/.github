@@ -1,0 +1,66 @@
+{
+  "kind": "org",
+  "login": "GHOST-CROWN",
+  "hero": "hero-ghost-crown.svg",
+  "brand": "GHOST CROWN",
+  "tagline": "THE KINGDOM · THE TERMINAL",
+  "blurb": "The Ghost Kingdom — the club, the cameras, the terminal, under one crown.",
+  "duo": [
+    {
+      "name": "THE ARCHITECT",
+      "nameSvg": "name-the-architect.svg",
+      "img": "architect.webp",
+      "alt": "Niko — The Architect",
+      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+    },
+    {
+      "name": "ONYX",
+      "nameSvg": "name-onyx.svg",
+      "img": "onyx.webp",
+      "alt": "Onyx — the Bengal",
+      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
+    }
+  ],
+  "rosterTitle": "The roster",
+  "lastCol": "Build",
+  "law": [
+    "THE KINGDOM · THE TERMINAL · THE CROWN",
+    "BUILT IN THE DARK · WORN AS FOIL"
+  ],
+  "footer": "GHOST CROWN · A SAVAGE HOUSE",
+  "signature": "GHOST CROWN",
+  "house": [
+    {
+      "name": "SAVAGE CEO",
+      "login": "savageceo"
+    },
+    {
+      "name": "SAVAGE STUDIO",
+      "login": "SAVAGE-STUDIO-INC"
+    },
+    {
+      "name": "SAVAGE ROSTER",
+      "login": "SAVAGE-ROSTER"
+    },
+    {
+      "name": "SAVAGE SUITE",
+      "login": "SAVAGE-SUITE"
+    },
+    {
+      "name": "SAVAGE CITY",
+      "login": "SAVAGE-CITY"
+    },
+    {
+      "name": "SAVAGE BUNNY",
+      "login": "SAVAGE-BUNNY"
+    },
+    {
+      "name": "SAVAGE CLIENTS",
+      "login": "SAVAGE-CLIENTS"
+    },
+    {
+      "name": "GHOST CROWN",
+      "login": "GHOST-CROWN"
+    }
+  ]
+}
