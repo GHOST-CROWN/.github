@@ -1,5 +1,5 @@
 {
-  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "_comment": "SOURCE OF TRUTH for this roster. Add a build = add one object to items[], then push (the Action rebuilds the README). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url), logo (the build's tile on the wall: a file under assets/. It ships as a placeholder with the name set in MBF Royal; overwrite that file with the real logo, same name, on a 5:3 canvas such as 1500x900, so the wall stays even. A PNG works too: change the extension here. Omit logo to keep a build off the wall).",
   "statuses": {
     "live": {
       "dot": "🟢",
@@ -28,7 +28,8 @@
       "src": {
         "label": "GHOST-CAM",
         "url": null
-      }
+      },
+      "logo": "logos/ghost-kingdom.svg"
     },
     {
       "name": "The Kingdom",
@@ -39,18 +40,32 @@
       "src": {
         "label": "KINGDOM",
         "url": null
-      }
+      },
+      "logo": "logos/the-kingdom.svg"
     },
     {
-      "name": "The Terminal",
-      "domain": "kingdom terminal",
+      "name": "Crown Build",
+      "domain": "the crown site",
       "url": null,
-      "tag": "Terminal",
+      "tag": "Site build",
       "status": "soon",
       "src": {
-        "label": "TERMINAL",
+        "label": "CROWN-BUILD",
         "url": null
-      }
+      },
+      "logo": "logos/crown-build.svg"
+    },
+    {
+      "name": "Hacking Class",
+      "domain": "pentest path",
+      "url": null,
+      "tag": "Certification path",
+      "status": "private",
+      "src": {
+        "label": "ghostcrown.lol",
+        "url": null
+      },
+      "logo": "logos/hacking-class.svg"
     }
   ]
 }

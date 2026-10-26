@@ -9,46 +9,55 @@
 
 <div align="center">
 
-<img src="../assets/hero-ghost-crown.svg" width="640" alt="GHOST CROWN — THE KINGDOM · THE TERMINAL" />
+<img src="../assets/hero-ghost-crown-terminal.svg" width="640" alt="GHOST CROWN — THE KINGDOM · THE TERMINAL" />
 
 <em>The Ghost Kingdom — the club, the cameras, the terminal, under one crown.</em>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
+<p><img src="../assets/title-the-kingdom.svg" height="30" alt="THE KINGDOM" /></p>
+
 <table>
   <tr>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-the-architect.svg" height="34" alt="THE ARCHITECT" /><br/>
-      <img src="../assets/architect.webp" height="392" alt="Niko — The Architect" /><br/>
-      <sub>PRODUCER · ENGINEER · THE ONE WHO SHIPS</sub>
+    <td align="center" valign="top" width="220">
+      <a href="https://www.ghostk.ing"><img src="../assets/logos/ghost-kingdom.svg" width="196" alt="Ghost Kingdom" /></a><br/>
+      <sub>Camera fleet</sub>
     </td>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-onyx.svg" height="34" alt="ONYX" /><br/>
-      <img src="../assets/onyx.webp" height="392" alt="Onyx — the Bengal" /><br/>
-      <sub>CHIEF QUALITY BENGAL · STUDIO ENFORCER</sub>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/the-kingdom.svg" width="196" alt="The Kingdom" /><br/>
+      <sub>Docs + club</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/crown-build.svg" width="196" alt="Crown Build" /><br/>
+      <sub>Site build</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/hacking-class.svg" width="196" alt="Hacking Class" /><br/>
+      <sub>Certification path</sub>
     </td>
   </tr>
 </table>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
-### The roster
+### The crown
 
-| Property | Type | Live at | Status | Build |
+| Build | What | Live at | Status | Repo |
 |:--|:--|:--|:--:|:--:|
 | **Ghost Kingdom** | Camera fleet | [ghostk.ing ↗](https://www.ghostk.ing) | 🟢 Live | `GHOST-CAM` |
 | **The Kingdom** | Docs + club | kingdom club | 🔵 Soon | `KINGDOM` |
-| **The Terminal** | Terminal | kingdom terminal | 🔵 Soon | `TERMINAL` |
+| **Crown Build** | Site build | the crown site | 🔵 Soon | `CROWN-BUILD` |
+| **Hacking Class** | Certification path | pentest path | 🔒 Private | `ghostcrown.lol` |
 
-<sub>🟢 Live&nbsp;&nbsp;·&nbsp;&nbsp;🔵 Soon&nbsp;&nbsp;—&nbsp;&nbsp;names link to the live site.</sub>
+<sub>🟢 Live&nbsp;&nbsp;·&nbsp;&nbsp;🔵 Soon&nbsp;&nbsp;·&nbsp;&nbsp;🔒 Private&nbsp;&nbsp;—&nbsp;&nbsp;names link to the live site.</sub>
 
 <br/>
 
 ```text
-╔════════════════════════════════════════════╗
-║   THE KINGDOM · THE TERMINAL · THE CROWN   ║
-║      BUILT IN THE DARK · WORN AS FOIL      ║
-╚════════════════════════════════════════════╝
+$ cat LAW
+› THE KINGDOM · THE TERMINAL · THE CROWN
+› BUILT IN THE DARK · WORN AS FOIL
+$ █
 ```
 
 <br/>
